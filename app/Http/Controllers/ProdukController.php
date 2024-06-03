@@ -8,6 +8,6 @@ class ProdukController extends Controller
 {
     public function index()
     {
-        return view('member.produk.index');
+        return view('member.home.produk.index');
     }
 }

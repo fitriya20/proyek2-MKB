@@ -88,7 +88,7 @@
                 <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                     <div class="navbar-nav me-auto">
                         <a href="index.html" class="nav-item nav-link active">Home</a>
-                        <a href="shop.html" class="nav-item nav-link">produk</a>
+                        <a href="{{route('produk')}}" class="nav-item nav-link">produk</a>
                         <a href="detail.html" class="nav-item nav-link">Shop Detail</a>
                         <a href="contact.html" class="nav-item nav-link">Blogs</a>
                     </div>
